@@ -1,6 +1,6 @@
 ---
 title: Lay Beliefs about Science
-summary: We study people's lay beliefs about science.
+summary: This project dwells on what people believe that (psychological) science can explain, and why it is the case that some phenomena are beleived to be more explainable than others. Additionaly, it seeks to uncover how motivation can prompt one to be more willing to accept science.
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
