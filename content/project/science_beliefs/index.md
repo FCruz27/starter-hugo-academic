@@ -7,7 +7,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo on iStock
   focal_point: Smart
 
 url_code: ''
