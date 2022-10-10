@@ -2,26 +2,30 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: '#about'
-    weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
+    weight: 1
+  - name: Research Interests
     url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+    weight: 2
   - name: Publications
-    url: '#featured'
-    weight: 50
+    url: '#publications'
+    weight: 3
+  - name: Awards & Certifications
+    url: '#accomplishments'
+    weight: 4
+  - name: CV
+    url: uploads/CV.pdf
+    weight: 5
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
