@@ -1,5 +1,6 @@
 ---
 widget: hero
+active: false
 headless: true
 weight: 10
 title: Hugo Academic Theme
@@ -33,4 +34,3 @@ From landing pages, second brains, and courses to academic resumés, conferences
 <!--GitHub Button JS-->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-active = false
