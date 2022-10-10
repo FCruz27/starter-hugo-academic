@@ -10,8 +10,8 @@ headless: true
 weight: 4
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certifications'
-subtitle:
+title: 
+subtitle: 'Certi&shy;fications'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -65,8 +65,8 @@ item:
     title: Introduction to Philosophy
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards'
-subtitle:
+title:
+subtitle: 'Awards'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
