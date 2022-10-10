@@ -23,30 +23,46 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-25'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization_url: ''
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    organization: Wesleyan University
+    title: Social Psychology
+  - certificate_url: ''
+    date_end: ''
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization_url: ''
     url: ''
+    date_start: '2021-01-01'
+    organization: École Polytechnique
+    title: How to Write and Publish a Scientific Paper
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2021-01-01'
+    organization: HarvardX
+    title: Data Science - R Basics
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2020-01-01'
+    organization: University of London
+    title: Probability and Statistics - To p or not to p?
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2020-01-01'
+    organization: University of Edinburgh
+    title: Introduction to Philosophy
 
 design:
   columns: '2'
