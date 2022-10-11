@@ -64,14 +64,7 @@ item:
     organization: University of Edinburgh
     title: Introduction to Philosophy
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading. 
-subtitle: 'TWO OF THEM'
-
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+subtitle: 'Awards'
 item:
   - certificate_url: ''
     date_end: ''
@@ -91,5 +84,5 @@ item:
     title: Best Conference Presentation (3rd place)
 
 design:
-  columns: '3'
+  columns: '2'
 ---
