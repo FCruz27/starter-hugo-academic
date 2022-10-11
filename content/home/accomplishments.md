@@ -43,47 +43,47 @@ date_format: '2006'
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  item:
-    - certificate_url: ''
-      date_end: ''
-      description: ''
-      organization_url: ''
-      url: ''
-      date_start: '2021-01-01'
-      organization: Wesleyan University
-      title: Social Psychology
-    - certificate_url: ''
-      date_end: ''
-      description: ''
-      organization_url: ''
-      url: ''
-      date_start: '2021-01-01'
-      organization: École Polytechnique
-      title: How to Write and Publish a Scientific Paper
-    - certificate_url: ''
-      date_end: ''
-      description: ''
-      organization_url: ''
-      url: ''
-      date_start: '2021-01-01'
-      organization: HarvardX
-      title: Data Science - R Basics
-    - certificate_url: ''
-      date_end: ''
-      description: ''
-      organization_url: ''
-      url: ''
-      date_start: '2020-01-01'
-      organization: University of London
-      title: Probability and Statistics - To p or not to p?
-    - certificate_url: ''
-      date_end: ''
-      description: ''
-      organization_url: ''
-      url: ''
-      date_start: '2020-01-01'
-      organization: University of Edinburgh
-      title: Introduction to Philosophy
+item:
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2021-01-01'
+    organization: Wesleyan University
+    title: Social Psychology
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2021-01-01'
+    organization: École Polytechnique
+    title: How to Write and Publish a Scientific Paper
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2021-01-01'
+    organization: HarvardX
+    title: Data Science - R Basics
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2020-01-01'
+    organization: University of London
+    title: Probability and Statistics - To p or not to p?
+  - certificate_url: ''
+    date_end: ''
+    description: ''
+    organization_url: ''
+    url: ''
+    date_start: '2020-01-01'
+    organization: University of Edinburgh
+    title: Introduction to Philosophy
 
 
 design:
