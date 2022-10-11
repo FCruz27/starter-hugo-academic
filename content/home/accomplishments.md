@@ -11,10 +11,6 @@ weight: 4
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards & Certi&shy;fications'
-subtitle: 'Certifications'
-
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: '2006'
 
 # Accomplishments.
@@ -64,7 +60,8 @@ item:
     organization: University of Edinburgh
     title: Introduction to Philosophy
 
-subtitle: 'Awards'
+title: 'Awards only'
+date_format: '2006'
 item:
   - certificate_url: ''
     date_end: ''
