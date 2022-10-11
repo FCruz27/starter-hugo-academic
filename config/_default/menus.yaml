@@ -17,15 +17,18 @@ main:
   - name: Publications
     url: '#publications'
     weight: 3
-  - name: Awards & Certifications
-    url: '#accomplishments'
+  - name: Certifications
+    url: '#certifications'
     weight: 4
+  - name: Awards
+    url: '#awards'
+    weight: 5
   - name: CV
     url: uploads/CV.pdf
-    weight: 5
+    weight: 6
   - name: Contact
     url: '#contact'
-    weight: 6
+    weight: 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
