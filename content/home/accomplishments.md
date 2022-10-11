@@ -66,7 +66,7 @@ item:
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards' 
-subtitle: 
+subtitle: 'TWO OF THEM'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
