@@ -1,7 +1,7 @@
 ---
 title: Lay Beliefs about Science
 summary: This research interest revolves around why people believe that some psychological phenomena are more explainable than others. Furthermore, we address the nature of these beliefs, as well as their malleability, namely under contexts in which people are motivated to reach a desired conclusion or after exposure to formal scientific training opportunities. This project seeks to inform policies, by designing interventions dedicated to dismantling scepticism towards (psychological) science.
-date: '2016-04-27T00:00:00Z'
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

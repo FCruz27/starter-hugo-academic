@@ -1,7 +1,7 @@
 ---
 title: Temporal Outgroups
 summary: It appears that ingroups become outgroups when they are thought of in the past (i.e., one's compatriots 100 years ago), namely in the extent to which the group's members are believed to be different from one another (i.e., decreased perceived heterogeneity). We focus on addressing the potentially relevant psychological mechanisms promoting differential beliefs about the homogeneity of closely related social groups.
-date: '2016-04-27T00:00:00Z'
+date: '2019-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
