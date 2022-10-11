@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/343983679_Further_evidence_for_a_late_locus_of_holistic_word_processing_Exploring_vertex_effect_in_the_word_composite_task
+url_pdf: https://link.springer.com/content/pdf/10.3758/s13414-020-02113-z.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
