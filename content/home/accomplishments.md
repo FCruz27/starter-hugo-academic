@@ -96,5 +96,5 @@ item:
     title: Best Conference Presentation (3rd place)
 
 design:
-  columns: '2'
+  columns: '3'
 ---
