@@ -23,4 +23,4 @@ url_video: ''
 slides: ""
 ---
 
-Thinking of our social groups in the past (e.g., our compatriots in 1922) changes the way we perceive them as a social category, namely by leading us to believe that the group members are more similar to one another than its present members are. In this project, we address the potentially relevant psychological mechanisms promoting differential beliefs about the homogeneity of closely related social groups.
+Thinking of one's social groups in the past (e.g., our compatriots in 1922) changes the way we perceive them as a social category, namely by leading us to believe that the group members are more similar to one another than its present members are. In this project, we address the potentially relevant psychological mechanisms promoting differential beliefs about the homogeneity of closely related social groups.
