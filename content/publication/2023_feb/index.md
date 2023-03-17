@@ -52,7 +52,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/profile/Kara-Moore/publication/368883458_The_effect_of_pre-event_instructions_on_eyewitness_identification/links/63ff77400d98a97717ca7c82/The-effect-of-pre-event-instructions-on-eyewitness-identification.pdf
+url_pdf: https://www.researchgate.net/publication/368883458_The_effect_of_pre-event_instructions_on_eyewitness_identification
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
